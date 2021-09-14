@@ -3,10 +3,13 @@
 🌱 I’m currently learning how tf Kubernetes works ⁉  
 ⚡ Quick Fact: VMware is a mix between love and hate. Trust me with that.
 
+[![Stats](https://github-readme-stats.vercel.app/api?username=Timoms)](https://github.com/anuraghazra/github-readme-stats)
+
 ```bash
 IT System Engineer/
 ├─ VMware/
 │  ├─ Unified Access Gateway
+│  ├─ NSX-ALB
 │  ├─ vCenter
 │  ├─ vSphere ESXi
 │  ├─ TKG
@@ -26,15 +29,16 @@ Software Developer/
 │  ├─ Universal Windows Platform
 │  ├─ Winforms
 ├─ Python/
+│  ├─ Small Scripts
 ├─ PHP/
 │  ├─ Image Manipulation
 │  ├─ API (Slim Framework)
 ├─ Python/
 │  ├─ AI Test Projects
 ├─ JavaKotlin/
-│  ├─ Bots
+│  ├─ Discord Bots, Inofficial API
 │  ├─ Android Apps
 │  ├─ XPOSED
 
-[Debug] Tree size might be larger but its limited due to memory limits.
+[Debug] Tree size might be larger but its limited due to memory restrictions.
 ```
