@@ -1,7 +1,7 @@
 #### Captain Teemo on duty!
-🔭 I’m currently working on [LibICAP](https://github.com/Timoms/LibICAP) - `RFC3507` - Stale!
+🔭 I’m currently working on [LibICAP](https://github.com/Timoms/LibICAP) - `RFC3507` - Stale!  
 🌱 I’m currently learning how tf Kubernetes works ⁉  
-⚡ Quick Fact: VMware is a mix between love and hate. Trust me with that. I've switched to Proxmox - LOL!
+⚡ Quick Fact: VMware is a mix between love and hate. Trust me with that. I've switched to Proxmox - LOL!  
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Timoms)](https://github.com/anuraghazra/github-readme-stats)
 
