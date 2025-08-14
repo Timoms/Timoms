@@ -1,7 +1,7 @@
 #### Captain Teemo on duty!
-🔭 I’m currently working on [LibICAP](https://github.com/Timoms/LibICAP) - `RFC3507`  
+🔭 I’m currently working on [LibICAP](https://github.com/Timoms/LibICAP) - `RFC3507` - Stale!
 🌱 I’m currently learning how tf Kubernetes works ⁉  
-⚡ Quick Fact: VMware is a mix between love and hate. Trust me with that.
+⚡ Quick Fact: VMware is a mix between love and hate. Trust me with that. I've switched to Proxmox - LOL!
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Timoms)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -18,10 +18,18 @@ IT System Engineer/
 │  ├─ FortiGate
 │  ├─ FortiSwitch
 │  ├─ FortiAP
+│  ├─ FortiExtender
+│  ├─ FortiManager
 │  ├─ FortiAnalyzer
+├─ Proxmox/
+│  ├─ Proxmox VE
+│  ├─ Proxmox Backup + Hetzner Space + Quantum Tape
 ├─ Microsoft/
 │  ├─ SCCM (MECM)
+│  ├─ SCOM
 │  ├─ Active Directory (+ Roles)
+│  ├─ Entra & M365 & Azure
+│  ├─ PowerApps & PowerAutomate
 Software Developer/
 ├─ CSharp/
 │  ├─ ASP .NET Core
@@ -29,12 +37,12 @@ Software Developer/
 │  ├─ Universal Windows Platform
 │  ├─ Winforms
 ├─ Python/
-│  ├─ Small Scripts
+│  ├─ Automations
+│  ├─ AI Playground
+│  ├─ Tools & Scripts
 ├─ PHP/
 │  ├─ Image Manipulation
 │  ├─ API (Slim Framework)
-├─ Python/
-│  ├─ AI Test Projects
 ├─ JavaKotlin/
 │  ├─ Discord Bots, Inofficial API
 │  ├─ Android Apps
